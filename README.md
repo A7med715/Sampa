@@ -5,7 +5,6 @@ A full end-to-end data engineering project built on the [Olist Brazilian E-Comme
 ---
 
 ## What This Project Does
-
 The pipeline reads nine CSV files from the Olist dataset and walks them through three transformation layers:
 
 | Layer | Purpose |
@@ -198,4 +197,4 @@ This project uses the **Brazilian E-Commerce Public Dataset by Olist**, publishe
 Ahmed Hassan — Computer Science student at Helwan University, Cairo.
 Building a data engineering portfolio one pipeline at a time.
 
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/A7med715) · [LinkedIn](www.linkedin.com/in/ahmed-hassan-09589a230)
